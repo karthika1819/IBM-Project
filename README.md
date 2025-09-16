@@ -19,8 +19,8 @@ Use Cases
 - Environmental awareness campaigns
 - Smart city research and education
 
-Screenshot of Project Output:
-<img width="1901" height="957" alt="Image" src="https://github.com/user-attachments/assets/7547719b-6c71-4d97-9ac9-c36ea6ce95e1" />
+Screenshot of Project Coding and Output:
+<img width="1888" height="960" alt="Screenshot 2025-09-16 082411" src="https://github.com/user-attachments/assets/27d7b59c-95bf-4422-bc70-b5583d79de2a" />
 
 Project:
 https://colab.research.google.com/drive/1mKcZPX5t0H9SfzcL2EEkC1w-IP34kEw7
