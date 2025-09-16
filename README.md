@@ -24,3 +24,6 @@ Screenshot of Project Output:
 
 Project:
 https://colab.research.google.com/drive/1mKcZPX5t0H9SfzcL2EEkC1w-IP34kEw7
+
+Demo video and Documentation:
+https://drive.google.com/drive/folders/1amZzng_iTu4pS1rOwQ97sA077ULlZHTA
