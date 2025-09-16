@@ -20,7 +20,6 @@ Use Cases
 - Smart city research and education
 
 Screenshot of Project Coding and Output:
-<img width="1888" height="960" alt="Screenshot 2025-09-16 082411" src="https://github.com/user-attachments/assets/27d7b59c-95bf-4422-bc70-b5583d79de2a" />
 
 Project:
 https://colab.research.google.com/drive/1mKcZPX5t0H9SfzcL2EEkC1w-IP34kEw7
